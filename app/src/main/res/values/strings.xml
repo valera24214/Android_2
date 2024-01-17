@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Laba 2</string>
+    <string name="hyperlink"><a href="https://www.google.com/">click</a></string>
+</resources>
